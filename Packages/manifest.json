@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.apple.core": "file:/Users/danibarca/Documents/GitHub.nosync/unityplugins/Build/com.apple.core-1.0.0.tgz",
-    "com.apple.gamekit": "file:/Users/danibarca/Documents/GitHub.nosync/unityplugins/Build/com.apple.gamekit-1.0.0.tgz",
+    "com.apple.core": "file:AppleCore/com.apple.core-1.0.0.tgz",
+    "com.apple.gamekit": "file:AppleCore/com.apple.gamekit-1.0.0.tgz",
     "com.unity.collab-proxy": "1.15.17",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.14",

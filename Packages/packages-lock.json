@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.apple.core": {
-      "version": "file:/Users/danibarca/Documents/GitHub.nosync/unityplugins/Build/com.apple.core-1.0.0.tgz",
+      "version": "file:AppleCore/com.apple.core-1.0.0.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {}
     },
     "com.apple.gamekit": {
-      "version": "file:/Users/danibarca/Documents/GitHub.nosync/unityplugins/Build/com.apple.gamekit-1.0.0.tgz",
+      "version": "file:AppleCore/com.apple.gamekit-1.0.0.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
